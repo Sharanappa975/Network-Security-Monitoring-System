@@ -116,7 +116,7 @@ java Server
 
 ## 👨‍💻 Author
 
-**T Reddy**  
+**Sharanappa**  
 Bangalore, India  
 
 ---
